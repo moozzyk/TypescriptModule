@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "sourceMap": true,
+        "removeComments": true,
+        "outFile": "test.js"
+    },
+    "files": [
+        "class.ts",
+        "helper.ts"
+    ]
+}
